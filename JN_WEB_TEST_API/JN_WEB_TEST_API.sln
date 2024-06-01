@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JN_WEB_TEST_API", "JN_WEB_TEST_API\JN_WEB_TEST_API.csproj", "{A11DAF9D-7F02-4983-9B4A-F085B40EE73A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A11DAF9D-7F02-4983-9B4A-F085B40EE73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11DAF9D-7F02-4983-9B4A-F085B40EE73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11DAF9D-7F02-4983-9B4A-F085B40EE73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11DAF9D-7F02-4983-9B4A-F085B40EE73A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20A76C1D-4EE5-4AE4-A8E2-678391122230}
+	EndGlobalSection
+EndGlobal
