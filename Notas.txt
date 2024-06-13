@@ -1,2 +1,3 @@
-Clase # 2
-26:27min
+Clase # 1 LISTO
+Clase # 2 LISTO
+Clase # 3 PENDIENTE
